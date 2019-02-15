@@ -953,6 +953,28 @@
             ]
         },
         {
+            "outputFile": "/Users/melqui/Documents/GitHub/xmlApp/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/melqui/Documents/GitHub/xmlApp/LectorNoticasRSS1/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "63",
+                        "endOffsets": "76"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "62",
+                        "endOffsets": "113"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/values-port_values-port.arsc.flat",
             "map": [
                 {
@@ -1102,6 +1124,28 @@
                         "startOffsets": "55,169,274,389,478,585,711,813,917,1014,1124,1226,1333",
                         "endColumns": "113,104,114,88,106,125,101,103,96,109,101,106,118",
                         "endOffsets": "164,269,384,473,580,706,808,912,1009,1119,1221,1328,1447"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/melqui/Documents/GitHub/xmlApp/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/melqui/Documents/GitHub/xmlApp/LectorNoticasRSS1/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "77",
+                        "endOffsets": "90"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
                     }
                 }
             ]
@@ -2012,6 +2056,56 @@
                         "startOffsets": "55,162,269,377,464,567,686,794,903,1003,1116,1223,1327",
                         "endColumns": "106,106,107,86,102,118,107,108,99,112,106,103,116",
                         "endOffsets": "157,264,372,459,562,681,789,898,998,1111,1218,1322,1439"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/melqui/Documents/GitHub/xmlApp/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/melqui/Documents/GitHub/xmlApp/LectorNoticasRSS1/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,8,3,4,6,5,7",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "17,349,66,119,247,170,307",
+                        "endColumns": "48,51,52,50,59,76,41",
+                        "endOffsets": "61,396,114,165,302,242,344"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "167,216,268,321,372,432,509",
+                        "endColumns": "48,51,52,50,59,76,41",
+                        "endOffsets": "211,263,316,367,427,504,546"
+                    }
+                },
+                {
+                    "source": "/Users/melqui/Documents/GitHub/xmlApp/LectorNoticasRSS1/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "58",
+                        "endOffsets": "71"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "551",
+                        "endColumns": "57",
+                        "endOffsets": "604"
+                    }
+                },
+                {
+                    "source": "/Users/melqui/Documents/GitHub/xmlApp/LectorNoticasRSS1/app/src/main/res/values/Array.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "19",
+                        "endOffsets": "162"
                     }
                 }
             ]
