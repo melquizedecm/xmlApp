@@ -1,0 +1,4 @@
+#Sat Feb 09 11:25:50 CST 2019
+base.0=/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
