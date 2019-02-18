@@ -24,6 +24,10 @@
         "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-18.0.0.aar/0b3e9c89de436fe481b5f9abebca9517/res/layout/abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "/Users/melqui/Documents/GitHub/xmlApp/ProyectoParaTestear/app/build/intermediates/res/merged/debug/layout_server.xml.flat",
+        "source": "/Users/melqui/Documents/GitHub/xmlApp/ProyectoParaTestear/app/src/main/res/layout/server.xml"
+    },
+    {
         "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/0efc8d452099cfce4f0404aecbdd9609/res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
     },
@@ -72,12 +76,12 @@
         "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-18.0.0.aar/0b3e9c89de436fe481b5f9abebca9517/res/drawable-hdpi/abc_ic_search_api_holo_light.png"
     },
     {
-        "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/0efc8d452099cfce4f0404aecbdd9609/res/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable_abc_dialog_material_background_dark.xml.flat",
         "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/0efc8d452099cfce4f0404aecbdd9609/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/0efc8d452099cfce4f0404aecbdd9609/res/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -108,12 +112,12 @@
         "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-18.0.0.aar/0b3e9c89de436fe481b5f9abebca9517/res/drawable-xhdpi/abc_ab_stacked_solid_light_holo.9.png"
     },
     {
-        "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ab_stacked_transparent_dark_holo.9.png.flat",
-        "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-18.0.0.aar/0b3e9c89de436fe481b5f9abebca9517/res/drawable-mdpi/abc_ab_stacked_transparent_dark_holo.9.png"
-    },
-    {
         "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
         "source": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_ab_stacked_transparent_dark_holo.9.png.flat",
+        "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-18.0.0.aar/0b3e9c89de436fe481b5f9abebca9517/res/drawable-mdpi/abc_ab_stacked_transparent_dark_holo.9.png"
     },
     {
         "merged": "/Users/melqui/Documents/GitHub/xmlApp/ProyectoParaTestear/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
@@ -144,28 +148,28 @@
         "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/0efc8d452099cfce4f0404aecbdd9609/res/color/abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_textfield_search_right_selected_holo_dark.9.png.flat",
-        "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-18.0.0.aar/0b3e9c89de436fe481b5f9abebca9517/res/drawable-mdpi/abc_textfield_search_right_selected_holo_dark.9.png"
-    },
-    {
         "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/0efc8d452099cfce4f0404aecbdd9609/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ab_share_pack_holo_light.9.png.flat",
-        "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-18.0.0.aar/0b3e9c89de436fe481b5f9abebca9517/res/drawable-xhdpi/abc_ab_share_pack_holo_light.9.png"
+        "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-mdpi_abc_textfield_search_right_selected_holo_dark.9.png.flat",
+        "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-18.0.0.aar/0b3e9c89de436fe481b5f9abebca9517/res/drawable-mdpi/abc_textfield_search_right_selected_holo_dark.9.png"
     },
     {
-        "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ab_stacked_solid_dark_holo.9.png.flat",
-        "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-18.0.0.aar/0b3e9c89de436fe481b5f9abebca9517/res/drawable-hdpi/abc_ab_stacked_solid_dark_holo.9.png"
+        "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_menu_hardkey_panel_holo_light.9.png.flat",
+        "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-18.0.0.aar/0b3e9c89de436fe481b5f9abebca9517/res/drawable-hdpi/abc_menu_hardkey_panel_holo_light.9.png"
     },
     {
         "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
         "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/0efc8d452099cfce4f0404aecbdd9609/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_menu_hardkey_panel_holo_light.9.png.flat",
-        "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-18.0.0.aar/0b3e9c89de436fe481b5f9abebca9517/res/drawable-hdpi/abc_menu_hardkey_panel_holo_light.9.png"
+        "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ab_stacked_solid_dark_holo.9.png.flat",
+        "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-18.0.0.aar/0b3e9c89de436fe481b5f9abebca9517/res/drawable-hdpi/abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ab_share_pack_holo_light.9.png.flat",
+        "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-18.0.0.aar/0b3e9c89de436fe481b5f9abebca9517/res/drawable-xhdpi/abc_ab_share_pack_holo_light.9.png"
     },
     {
         "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi_abc_ic_ab_back_mtrl_am_alpha.png.flat",
@@ -288,12 +292,12 @@
         "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/0efc8d452099cfce4f0404aecbdd9609/res/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/melqui/Documents/GitHub/xmlApp/ProyectoParaTestear/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_search.png.flat",
-        "source": "/Users/melqui/Documents/GitHub/xmlApp/ProyectoParaTestear/app/src/main/res/drawable-mdpi/ic_action_search.png"
-    },
-    {
         "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_cab_background_bottom_holo_light.9.png.flat",
         "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-18.0.0.aar/0b3e9c89de436fe481b5f9abebca9517/res/drawable-hdpi/abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/melqui/Documents/GitHub/xmlApp/ProyectoParaTestear/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_search.png.flat",
+        "source": "/Users/melqui/Documents/GitHub/xmlApp/ProyectoParaTestear/app/src/main/res/drawable-mdpi/ic_action_search.png"
     },
     {
         "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_ab_share_pack_holo_dark.9.png.flat",
@@ -320,20 +324,20 @@
         "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-18.0.0.aar/0b3e9c89de436fe481b5f9abebca9517/res/layout/abc_action_bar_decor.xml"
     },
     {
-        "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_cab_background_top_holo_dark.9.png.flat",
-        "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-18.0.0.aar/0b3e9c89de436fe481b5f9abebca9517/res/drawable-hdpi/abc_cab_background_top_holo_dark.9.png"
-    },
-    {
         "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/0efc8d452099cfce4f0404aecbdd9609/res/drawable-ldrtl-mdpi/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
-        "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/0efc8d452099cfce4f0404aecbdd9609/res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_cab_background_top_holo_dark.9.png.flat",
+        "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-18.0.0.aar/0b3e9c89de436fe481b5f9abebca9517/res/drawable-hdpi/abc_cab_background_top_holo_dark.9.png"
     },
     {
         "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_clear_mtrl_alpha.png.flat",
         "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/0efc8d452099cfce4f0404aecbdd9609/res/drawable-xxxhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.1.aar/0efc8d452099cfce4f0404aecbdd9609/res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
@@ -360,16 +364,16 @@
         "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-18.0.0.aar/0b3e9c89de436fe481b5f9abebca9517/res/drawable-hdpi/abc_ic_go_search_api_holo_light.png"
     },
     {
-        "merged": "/Users/melqui/Documents/GitHub/xmlApp/ProyectoParaTestear/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/Users/melqui/Documents/GitHub/xmlApp/ProyectoParaTestear/app/src/main/res/layout/activity_main.xml"
+        "merged": "/Users/melqui/Documents/GitHub/xmlApp/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/melqui/Documents/GitHub/xmlApp/LectorNoticasRSS1/app/src/main/res/drawable-hdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/anim_abc_slide_out_top.xml.flat",
         "source": "/Users/melqui/.gradle/caches/transforms-1/files-1.1/appcompat-v7-18.0.0.aar/0b3e9c89de436fe481b5f9abebca9517/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "/Users/melqui/Documents/GitHub/xmlApp/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
-        "source": "/Users/melqui/Documents/GitHub/xmlApp/LectorNoticasRSS1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+        "merged": "/Users/melqui/Documents/GitHub/xmlApp/ProyectoParaTestear/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/melqui/Documents/GitHub/xmlApp/ProyectoParaTestear/app/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/res/merged/debug/drawable-hdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
