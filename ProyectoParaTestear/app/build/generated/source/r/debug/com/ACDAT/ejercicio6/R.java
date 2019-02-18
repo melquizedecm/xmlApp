@@ -32,6 +32,7 @@ public final class R {
     public static final int activity_noticia=0x7f040001;
     public static final int activity_ultimas_noticias=0x7f040002;
     public static final int melqui=0x7f040003;
+    public static final int server=0x7f040004;
   }
   public static final class menu {
     public static final int activity_noticia=0x7f050000;

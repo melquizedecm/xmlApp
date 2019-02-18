@@ -1,16 +1,60 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\K3v1n\\Documents\\GitHub\\xmlApp\\ProyectoParaTestear\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\K3v1n\\Documents\\GitHub\\xmlApp\\ProyectoParaTestear\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "source": "/Users/melqui/AndroidStudioProjects/LectorNoticasRSS1/app/src/main/res/values-v11/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "19",
+                        "startOffsets": "17",
                         "endColumns": "63",
-                        "endOffsets": "78"
+                        "endOffsets": "76"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "62",
+                        "endOffsets": "113"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/melqui/Documents/GitHub/xmlApp/LectorNoticasRSS1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/melqui/Documents/GitHub/xmlApp/LectorNoticasRSS1/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "63",
+                        "endOffsets": "76"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "62",
+                        "endOffsets": "113"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/melqui/Documents/GitHub/xmlApp/ProyectoParaTestear/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/melqui/Documents/GitHub/xmlApp/ProyectoParaTestear/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "63",
+                        "endOffsets": "76"
                     },
                     "to": {
                         "startLines": "2",
